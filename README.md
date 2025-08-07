@@ -4,6 +4,8 @@ A comprehensive machine learning project for predicting customer churn using the
 
 ## 🎯 Project Overview
 
+App Link ---<li> https://ai-powered-customer-churn-analytics-platform-bbuqgfmwuxugtwc4p.streamlit.app/<li/>
+
 This project predicts customer churn for a telecommunications company using machine learning techniques. It provides actionable insights to help businesses identify at-risk customers and implement targeted retention strategies.
 
 ### Key Features
