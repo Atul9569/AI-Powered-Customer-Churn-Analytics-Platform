@@ -1,0 +1,73 @@
+Build a complete, professional-grade data science project titled "Customer Churn Prediction Model" using Python.
+
+Requirements:
+
+📂 Project Structure:
+
+README.md with project overview, objective, tech stack, results, and business impact
+
+notebooks/ folder containing Jupyter notebook with all steps (EDA → preprocessing → modeling → evaluation)
+
+src/ folder with modular Python scripts for data cleaning, model training, and evaluation
+
+data/ folder with sample dataset (can use Telco Customer Churn dataset)
+
+📊 Data Analysis & Preprocessing:
+
+Load and describe the dataset (use Pandas)
+
+Handle missing values, duplicates, and outliers
+
+Encode categorical features using appropriate techniques
+
+Apply feature engineering (create new variables, feature selection, scaling)
+
+🤖 Modeling:
+
+Train at least 3 models: Logistic Regression, Random Forest, and XGBoost
+
+Use ensemble method (XGBoost) for final model
+
+Split dataset using train-test split (80-20)
+
+Optimize model with GridSearchCV or RandomizedSearchCV
+
+Achieve target accuracy ≥ 89%
+
+📈 Evaluation:
+
+Evaluate using Accuracy, Precision, Recall, F1-Score, ROC-AUC
+
+Show confusion matrix and classification report
+
+Plot ROC Curve and Feature Importance chart
+
+🧠 Explainability:
+
+Use SHAP or Permutation Importance to explain top contributing features
+
+💼 Business Insights:
+
+Analyze which factors contribute most to churn
+
+Provide 3 actionable recommendations to reduce churn
+
+💻 Technologies:
+
+Python, Pandas, Scikit-learn, XGBoost, Matplotlib/Seaborn
+
+📤 Deployment (Optional):
+
+Export trained model with joblib or pickle
+
+Create a basic CLI or Streamlit UI to predict churn on new input
+
+Output everything in a GitHub-ready format, including clear markdowns, comments, visualizations, and folder structure.
+
+🧠 Bonus Tips:
+Use the Telco Customer Churn dataset (Kaggle) or generate mock data with realistic features: tenure, contract type, monthly charges, etc.
+
+Include a requirements.txt file so others can install dependencies.
+
+Add a demo video or screenshots in the README if possible.
+
